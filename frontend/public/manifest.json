@@ -1,0 +1,20 @@
+{
+  "id": "/admin",
+  "name": "Urban Spice Bistro — Manager & Kitchen",
+  "short_name": "Urban Spice Bistro",
+  "description": "Manage Urban Spice Bistro online orders and kitchen operations.",
+  "start_url": "/admin",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf9f6",
+  "theme_color": "#991b1b",
+  "icons": [
+    {
+      "src": "/nfc-partner.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
